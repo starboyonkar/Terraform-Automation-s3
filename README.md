@@ -41,6 +41,8 @@ terraform-s3-buckets/
 1. **Install Terraform**  
    [Download Terraform](https://developer.hashicorp.com/terraform/downloads)
 
+![image](https://github.com/user-attachments/assets/f04c2e38-e8f6-4541-9bab-a138924fa644)
+
 2. **Install AWS CLI**  
    [Install AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2.html)
 
