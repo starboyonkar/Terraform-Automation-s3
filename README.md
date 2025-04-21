@@ -76,6 +76,9 @@ terraform validate
 terraform plan
 ```
 
+![image](https://github.com/user-attachments/assets/00dd365c-6783-4e2d-82a1-931daa2a53f5)
+
+
 ### 5. Apply Configuration
 ```bash
 terraform apply
@@ -94,6 +97,7 @@ chmod +x auto_destroy.sh
 ```bash
 ./auto_destroy.sh
 ```
+ ![image](https://github.com/user-attachments/assets/83543214-d154-460d-9542-56d035dca5e0)
 
 This will automatically trigger:
 ```bash
@@ -101,7 +105,10 @@ terraform destroy -auto-approve
 ```
 after a 5-minute delay (can be adjusted in the script).
 
+![image](https://github.com/user-attachments/assets/5b11e176-b59c-480d-a9f1-3251e290793c)
+
 ---
+![image](https://github.com/user-attachments/assets/fd6c70ff-263e-43a1-a5fe-f846ebb08f80)
 
 ## ✅ Output Example
 
